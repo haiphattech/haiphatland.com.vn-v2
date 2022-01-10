@@ -1,0 +1,145 @@
+/*Font Roboto*/
+@font-face {
+    font-family: Roboto-Regular;
+    src: url('../fonts/Roboto/Roboto-Regular.ttf');
+}
+@font-face {
+    font-family: Roboto;
+    src: url('../fonts/Roboto/Roboto-Black.ttf');
+}
+@font-face {
+    font-family: Roboto-BlackItalic;
+    src: url('../fonts/Roboto/Roboto-BlackItalic.ttf');
+}
+@font-face {
+    font-family: Roboto-Bold;
+    src: url('../fonts/Roboto/Roboto-Bold.ttf');
+}
+@font-face {
+    font-family: Roboto-BoldItalic;
+    src: url('../fonts/Roboto/Roboto-BoldItalic.ttf');
+}
+@font-face {
+    font-family: Roboto-Italic;
+    src: url('../fonts/Roboto/Roboto-Italic.ttf');
+}
+@font-face {
+    font-family: Roboto-Light;
+    src: url('../fonts/Roboto/Roboto-Light.ttf');
+}
+@font-face {
+    font-family: Roboto-LightItalic;
+    src: url('../fonts/Roboto/Roboto-LightItalic.ttf');
+}
+@font-face {
+    font-family: Roboto-Medium;
+    src: url('../fonts/Roboto/Roboto-Medium.ttf');
+}
+@font-face {
+    font-family: Roboto-MediumItalic;
+    src: url('../fonts/Roboto/Roboto-MediumItalic.ttf');
+}
+@font-face {
+    font-family: Roboto-Regular;
+    src: url('../fonts/Roboto/Roboto-Regular.ttf');
+}
+@font-face {
+    font-family: Roboto-Thin;
+    src: url('../fonts/Roboto/Roboto-Thin.ttf');
+}
+@font-face {
+    font-family: Roboto-ThinItalic;
+    src: url('../fonts/Roboto/Roboto-ThinItalic.ttf');
+}
+
+/*Alumni_Sans*/
+@font-face {
+    font-family: AlumniSans-Black;
+    src: url('../fonts/Alumni_Sans/AlumniSans-Black.ttf');
+}
+@font-face {
+    font-family: AlumniSans-BlackItalic;
+    src: url('../fonts/Alumni_Sans/AlumniSans-BlackItalic.ttf');
+}
+@font-face {
+    font-family: AlumniSans-Bold;
+    src: url('../fonts/Alumni_Sans/AlumniSans-Bold.ttf');
+}
+@font-face {
+    font-family: AlumniSans-BoldItalic;
+    src: url('../fonts/Alumni_Sans/AlumniSans-BoldItalic.ttf');
+}
+@font-face {
+    font-family: AlumniSans-ExtraBold;
+    src: url('../fonts/Alumni_Sans/AlumniSans-ExtraBold.ttf');
+}
+@font-face {
+    font-family: AlumniSans-ExtraBoldItalic;
+    src: url('../fonts/Alumni_Sans/AlumniSans-ExtraBoldItalic.ttf');
+}
+@font-face {
+    font-family: AlumniSans-ExtraLight;
+    src: url('../fonts/Alumni_Sans/AlumniSans-ExtraLight.ttf');
+}
+@font-face {
+    font-family: AlumniSans-ExtraLightItalic;
+    src: url('../fonts/Alumni_Sans/AlumniSans-ExtraLightItalic.ttf');
+}
+@font-face {
+    font-family: AlumniSans-Italic;
+    src: url('../fonts/Alumni_Sans/AlumniSans-Italic.ttf');
+}
+@font-face {
+    font-family: AlumniSans-Italic-VariableFont_wght;
+    src: url('../fonts/Alumni_Sans/AlumniSans-Italic-VariableFont_wght.ttf');
+}
+@font-face {
+    font-family: AlumniSans-Light;
+    src: url('../fonts/Alumni_Sans/AlumniSans-Light.ttf');
+}
+@font-face {
+    font-family: AlumniSans-LightItalic;
+    src: url('../fonts/Alumni_Sans/AlumniSans-LightItalic.ttf');
+}
+@font-face {
+    font-family: AlumniSans-Medium;
+    src: url('../fonts/Alumni_Sans/AlumniSans-Medium.ttf');
+}
+@font-face {
+    font-family: AlumniSans-MediumItalic;
+    src: url('../fonts/Alumni_Sans/AlumniSans-MediumItalic.ttf');
+}
+@font-face {
+    font-family: AlumniSans-Regular;
+    src: url('../fonts/Alumni_Sans/AlumniSans-Regular.ttf');
+}
+@font-face {
+    font-family: AlumniSans-SemiBold;
+    src: url('../fonts/Alumni_Sans/AlumniSans-SemiBold.ttf');
+}
+@font-face {
+    font-family: AlumniSans-SemiBoldItalic;
+    src: url('../fonts/Alumni_Sans/AlumniSans-SemiBoldItalic.ttf');
+}
+@font-face {
+    font-family: AlumniSans-Thin;
+    src: url('../fonts/Alumni_Sans/AlumniSans-Thin.ttf');
+}
+@font-face {
+    font-family: AlumniSans-ThinItalic;
+    src: url('../fonts/Alumni_Sans/AlumniSans-ThinItalic.ttf');
+}
+@font-face {
+    font-family: AlumniSans-VariableFont_wght;
+    src: url('../fonts/Alumni_Sans/AlumniSans-VariableFont_wght.ttf');
+}
+
+/*SVN-Qalisha-2-fonts*/
+@font-face {
+    font-family: SVN-Qalisha-Signature-Script;
+    src: url('../fonts/SVN-Qalisha-2-fonts/SVN-Qalisha-Signature-Script.otf');
+}
+@font-face {
+    font-family: SVN-Qalisha-Signature-Serif;
+    src: url('../fonts/SVN-Qalisha-2-fonts/SVN-Qalisha-Signature-Serif.otf');
+}

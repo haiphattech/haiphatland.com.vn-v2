@@ -37,7 +37,7 @@ a:hover {
     font-size: 18px;
     font-family: "Roboto-Medium";
     border: 1px solid transparent;
-    box-shadow: 35px 0 79px rgb(0 0 0 / 21%);
+    /*box-shadow: 35px 0 79px rgb(0 0 0 / 21%);*/
     text-transform: uppercase;
     transition: all 700ms cubic-bezier(0.77, 0, 0.175, 1);
     cursor: pointer;
@@ -277,7 +277,9 @@ header .video .square svg{
     position: relative;
     padding-top: 50px;
 }
-
+.project .geometry-tp{
+    margin-left: 10px;
+}
 .project .image-project .owl-carousel .active  img{
     width: unset!important;
 }
@@ -411,11 +413,11 @@ header .video .square svg{
 
 }
 .bg-field{
-    margin-top: 297px;
+    margin-top: 440px;
 }
 .box-img {
     position: relative;
-    box-shadow: 5px 5px 10px rgb(0 0 0 / 32%);
+    /*box-shadow: 5px 5px 10px rgb(255 255 255 / 20%);*/
     border-radius: 2px;
     overflow: hidden;
 }

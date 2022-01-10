@@ -24,7 +24,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-1"></div>
-                <div class="col-6">
+                <div class="col-5">
                     <h2 class="txt-field">Dự án tiên phong</h2>
                     <div class="info-project">
                         <h3 class="title">
@@ -46,7 +46,7 @@
                         <img class="geometry-tp" src="./assets/images/geometry-tp.png" alt="">
                     </div>
                 </div>
-                <div class="col-5 image-project p-l-r-0">
+                <div class="col-6 image-project p-l-r-0">
                     <div class="owl-carousel owl-theme">
                         <div class="item">
                             <img src="./assets/images/bg-tp-2.jpg" alt="">
